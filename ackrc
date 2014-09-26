@@ -1,8 +1,6 @@
 --type-add=haml=.haml
---type-add=sass=.sass,.scss
 --type-add=twig=.twig
 --type-set=haml=.haml
---type-set=sass=.sass,.scss
 --type-set=twig=.twig
 --smart-case
 --sort-files
